@@ -5,4 +5,4 @@
 
 Graduated from Clemson University with a B.S. in Computer Science and a minor in DPA. 
 I have a passion for technology whether it be designing virtual environments or developing software. 
-Right now, I am working on my Masters of Science in Digital Production Arts at Clemson University.
+Right now, I am working on my Masters of Science in Computer Science at Clemson University.
